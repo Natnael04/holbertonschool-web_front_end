@@ -10,14 +10,17 @@ a {
     color: #161616;
 }
 
+/*display none for visually-hidden class*/
 .visually-hidden {
     display: none;
 }
 
+/*apply color to card-catagory*/
 .card-catagory {
     color: #D73953;
 }
 
+/*apply color to section tagline*/
 .section-tagline {
     color: #D73953;
 }
