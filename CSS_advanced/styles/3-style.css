@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    color: var(--text-color);
+    color: -text-color;
 }
 
 a {
@@ -15,11 +15,11 @@ a {
 }
 
 .card-category {
-    color: var(--color-primary);
+    color: color-primary;
 }
 
 .section-tagline {
-    color: var(--color-primary);
+    color: color-primary;
 }
 
 :root {
