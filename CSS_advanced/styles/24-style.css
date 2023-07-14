@@ -69,7 +69,7 @@
  }
  .card-services  a {
     display: block;
-    padding: 2 * 1rem;
+    padding: 2rem;
     background-color: var(--color-light-grey);
  }
  .card-services  a:hover {
