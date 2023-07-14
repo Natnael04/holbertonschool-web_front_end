@@ -156,10 +156,6 @@ h6 {
     font-weight: var(--font-weight-bold);
 }
 
-.link {
-    font-family: var(--font-family-title);
-}
-
 .footer {
     padding: var(--footer-padding);
 }
